@@ -9,12 +9,16 @@ sites:
     url: https://acces.imasmallorca.net
   - name: Login corp
     url: https://login.imasmallorca.net
-  - name: Portal del personal
+  - name: "Portal del personal"
     url: https://portalpersonal.imasmallorca.net
-  - name: Portal formació
+  - name: "Portal formació"
     url: https://formacio.imasmallorca.net
-  - name: Correu web
+  - name: "Correu web"
     url: https://correu.imasmallorca.net
+  - name: "MTA correu"
+    check: "tcp-ping"
+    url: mail1.imasmallorca.net
+    port: 25
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,9 +26,9 @@ status-website:
   # cname: s3rgi.github.io
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Serveis IMAS
+  name: "Serveis IMAS"
   introTitle: "**Serveis WEB** de l'IMAS"
-  introMessage: Aquesta pàgina mostra l\'estat dels serveis web de l\'Institut Mallorquí d\Afers Socials.
+  introMessage: "Aquesta pàgina mostra l\'estat dels serveis web de l\'Institut Mallorquí d\Afers Socials."
   navbar:
     - title: Estat
       href: /
