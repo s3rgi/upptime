@@ -23,8 +23,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: s3rgi.github.io
-  baseUrl: /upptime
+  cname: stats.imasmallorca.net
+  #baseUrl: /upptime
   theme: night
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://www.imasmallorca.net/citafront/img/imas_off.png
