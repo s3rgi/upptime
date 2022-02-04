@@ -28,7 +28,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "Serveis IMAS"
   introTitle: "**Serveis WEB** de l'IMAS"
-  introMessage: "Aquesta pàgina mostra l\'estat dels serveis web de l\'Institut Mallorquí d\Afers Socials."
+  introMessage: "Aquesta pàgina mostra estat dels serveis web Institut Mallorquí d.Afers Socials."
   navbar:
     - title: Estat
       href: /
