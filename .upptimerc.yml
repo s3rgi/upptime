@@ -1,28 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: s3rgi # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: WEB
+    url: https://www.imasmallorca.net
+  - name: VPN
+    url: https://acces.imasmallorca.net
+  - name: Login corp
+    url: https://login.imasmallorca.net
+  - name: Portal del personal
+    url: https://portalpersonal.imasmallorca.net
+  - name: Portal formació
+    url: https://formacio.imasmallorca.net
+  - name: Correu web
+    url: https://correu.imasmallorca.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: s3rgi.github.io
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Serveis IMAS
+  introTitle: "**Serveis WEB** de l'IMAS"
+  introMessage: Aquesta pàgina mostra l\'estat dels serveis web de l\'Institut Mallorquí d\Afers Socials.
   navbar:
-    - title: Status
+    - title: Estat
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
