@@ -25,12 +25,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: s3rgi.github.io
   baseUrl: /upptime
-  theme: dark
+  theme: night
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://www.imasmallorca.net/citafront/img/imas_off.png
   name: "Serveis IMAS"
-  introTitle: "**Serveis WEB** de l'IMAS"
-  introMessage: "Aquesta pàgina mostra estat dels serveis web Institut Mallorquí d.Afers Socials."
+  introTitle: "**Serveis** de l'IMAS"
+  introMessage: "Aquesta pàgina mostra l'estat dels serveis públics de l'Institut Mallorquí d'Afers Socials."
   navbar:
     - title: Estat
       href: /
