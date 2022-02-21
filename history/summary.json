@@ -76,9 +76,9 @@
     "url": "https://formacio.imasmallorca.net",
     "icon": "https://favicons.githubusercontent.com/formacio.imasmallorca.net",
     "slug": "portal-formacio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1032,
     "timeMonth": 1034,
     "timeYear": 1034,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   },
   {
     "name": "Correu web",
